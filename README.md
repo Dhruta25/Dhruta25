@@ -1,37 +1,45 @@
-<!-- Profile Banner -->
-![Banner](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-# Hey there, I’m Dhruta 👋
-💡 *AI Explorer | Code Whisperer | Professional Bug Summoner 🐛*
+- 🧠 Building AI that sometimes listens to me  
+- 🎯 Currently learning **LangChain, Agentic AI, and crazy experiments**  
+- 🎮 Fun fact: I debug my code like I’m in a detective movie  
 
 ---
 
 ### 🚀 Tech Arsenal
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Universe
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dhruta25&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruta25&theme=highcontrast)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruta25&theme=neon-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruta25&layout=compact&theme=tokyonight)
 
 ---
 
+### 🐍 Snake Eating My Contributions
+![Snake animation](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🔥 Random Fun
-> **Fact of the Day:** I sometimes write perfect code... but my laptop refuses to believe it.  
-> **Goal for 2025:** Turn caffeine into code faster than AI can.
+> **Fact of the Day:** My AI once told me to “touch grass.”  
+> **Goal for 2025:** Make my GitHub README more famous than my LinkedIn.
 
 ---
 
 ### 🏆 Weird Flex but OK
-- Survived `npm install` without crying.
-- Named variables like `x` and still found them later.
-- Accidentally trained an AI that loves pineapple pizza 🍍🍕
+- Broke production once… fixed it before anyone noticed 🤫  
+- Made an AI that only responds in memes  
+- Survived `git merge` conflicts without rage quitting
+
+---
+
+### 💬 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
