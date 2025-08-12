@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ### 🔥 Random Fun
 > **Fact of the Day:** My AI once told me to “touch grass.”  
 > **Goal for 2025:** Make my GitHub README more famous than my LinkedIn.
