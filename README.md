@@ -15,13 +15,9 @@
 
 ### 📊 My GitHub Universe
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dhruta25&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruta25&theme=neon-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruta25&layout=compact&theme=tokyonight)
 
 ---
-
-### 🐍 Snake Eating My Contributions
-![Snake animation](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
