@@ -1,6 +1,5 @@
-- 🧠 Building AI that sometimes listens to me  
-- 🎯 Currently learning **LangChain, Agentic AI, and crazy experiments**  
-- 🎮 Fun fact: I debug my code like I’m in a detective movie  
+<!-- Typing Intro Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=600&lines=🧠+Building+AI+that+sometimes+listens+to+me;🎯+Currently+learning+LangChain+and+Agentic+AI;🎮+Debugging+code+like+a+detective+movie)](https://git.io/typing-svg)
 
 ---
 
@@ -14,8 +13,8 @@
 ---
 
 ### 📊 My GitHub Universe
-![Stats](https://github-readme-stats.vercel.app/api?username=Dhruta25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruta25&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dhruta25&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruta25&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -34,6 +33,12 @@
 
 ### 💬 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🐍 Contribution Snake (Animated)
+![GitHub Snake Light](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
