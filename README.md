@@ -40,10 +40,6 @@
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=Dhruta25&color=blue)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-
 ### 🐍 Contribution Snake (Animated)
 ![GitHub Snake Light](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
