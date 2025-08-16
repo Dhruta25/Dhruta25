@@ -1,5 +1,5 @@
 <!-- Typing Intro Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&width=600&lines=🧠+Building+AI+that+sometimes+listens+to+me;🎯+Currently+learning+LangChain+and+Agentic+AI;🎮+Debugging+code+like+a+detective+movie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I+am+Dhruta;🧠+AI+Enthusiast+and+Code+Whisperer;⚡+Building+Agentic+AI;🎮+Debugging+like+a+Detective;🚀+Always+Experimenting)](https://git.io/typing-svg)
 
 ---
 
@@ -13,7 +13,6 @@
 ---
 
 ### 📊 My GitHub Universe
-![Stats](https://github-readme-stats.vercel.app/api?username=Dhruta25&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruta25&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
@@ -35,6 +34,15 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+### 🎉 Fun Animation
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF6B6B&width=600&lines=Hey+I+am+Dhruta+👋;Welcome+to+my+GitHub+Universe+🚀;I+Build+AI+that+Sometimes+Listens+🧠;Let%E2%80%99s+Code+Something+Cool+🔥)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=Dhruta25&color=blue)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
 
 ### 🐍 Contribution Snake (Animated)
 ![GitHub Snake Light](https://github.com/Dhruta25/Dhruta25/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
