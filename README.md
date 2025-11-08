@@ -46,16 +46,6 @@
 
 ---
 
-### 🎧 My Current Coding Vibe
-> *"Write once, refactor forever."*  
-> 🕶️ Currently vibing to: `lofi-beats-to-debug-to`
-
----
-
-### 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ### 📈 Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhruta25&color=00C2FF&style=flat-square)
@@ -64,8 +54,8 @@
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Dhruta25-181717?style=for-the-badge&logo=github)](https://github.com/Dhruta25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrutabrata%20Biswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrutabrata%20Biswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/dhrutabrata-biswal-990991305/))
+
 
 ---
 
