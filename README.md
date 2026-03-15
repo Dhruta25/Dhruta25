@@ -103,4 +103,4 @@
 
 > 🧬 *Made with caffeine, chaos, and curiosity by **Dhrutabrata Biswal** — where Biotechnology meets Artificial Intelligence.*
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF6B6B&width=700&lines=Hey+I+am+Dhruta+👋;NIT+Rourkela+%7C+Biotech+%2B+AI+🧬;Building+with+PyTorch+%7C+LangChain+%7C+RAG+🔥;Let's+Code+Something+Incredible+🚀)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF6B6B&width=700&lines=Hey+I+am+Dhruta+👋;NIT+Rourkela+%2B+AI+🧬;Building+with+PyTorch+%7C+LangChain+%7C+RAG+🔥;Let's+Code+Something+Incredible+🚀)
