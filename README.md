@@ -1,5 +1,5 @@
 <!-- Typing Intro Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Dhruta;🧠+AI+Engineer+%26+Code+Whisperer;⚡+Building+Agentic+AI+Systems;🔥+PyTorch+%7C+LangChain+%7C+RAG+%7C+CNNs;🚀+NIT+Rourkela+%7C+Biotech+%2B+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Dhruta;🧠+AI+Engineer+%26+Code+Whisperer;⚡+Building+Agentic+AI+Systems;🔥+PyTorch+%7C+LangChain+%7C+RAG+%7C+CNNs;🚀+NIT+Rourkela+%2B+AI)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhruta25&color=00C2FF&style=flat-square" alt="profile views"/>
