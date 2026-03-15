@@ -3,9 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhruta25&color=00C2FF&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/NIT%20Rourkela-Biotechnology-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-8.19-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-orange?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/NIT%20Rourkela-blue?style=flat-square" />
 </p>
 
 ---
